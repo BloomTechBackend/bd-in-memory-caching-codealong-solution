@@ -1,5 +1,5 @@
 # Exploring `In-Memory Caching` Code Along
-
+ 
 This activity will be walked through by your instructor.
 
 **Your participation is critical to your understanding**, so please respond when asked by the instructor and ask any questions you may have immediately.
